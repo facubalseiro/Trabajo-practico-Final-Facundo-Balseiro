@@ -69,8 +69,8 @@ h2, h3 {
 img {
     display: block;
     width: 100%;
-    max-width: 420px;
-    height: 230px;
+    max-width: 200px;
+    height: 150px;
     object-fit: cover;
     margin: 15px auto;
     border-radius: 6px;
@@ -87,7 +87,7 @@ img {
 .producto {
     width: 100px;
     padding: 15px;
-    background-color: #f7f7f7;
+    background-color: red;
     border: 1px solid #dddddd;
     border-radius: 8px;
 }
