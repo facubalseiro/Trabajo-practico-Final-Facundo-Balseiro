@@ -85,7 +85,7 @@ img {
 }
 
 .producto {
-    width: 220px;
+    width: 100px;
     padding: 15px;
     background-color: #f7f7f7;
     border: 1px solid #dddddd;
@@ -93,8 +93,8 @@ img {
 }
 
 .producto img {
-    width: 100%;
-    height: 160px;
+    width: 50%;
+    height: 50px;
     object-fit: contain;
 }
 
