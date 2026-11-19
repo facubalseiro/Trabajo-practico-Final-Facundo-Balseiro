@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Sneakerdistrict - Zapatillas</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Sneakerdistrict</h1>
+        <p>Catálogo de zapatillas exclusivas</p>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="zapatillas.html">Zapatillas</a></li>
+                <li><a href="ubicaciones.html">Ubicaciones</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Nuestro catálogo</h2>
+
+            <p>
+                Estos son algunos de los modelos destacados
+                de Sneakerdistrict. Los precios son orientativos
+                y están expresados en dólares estadounidenses.
+            </p>
+        </section>
+
+        <section class="productos">
+
+            <article class="producto">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBpFgyOPkc7fsrw4gg5Ap70wKWqyD-mgE9ytjX-YRwEWsatpeDB9da_jw&s=10"
+                alt="Jordan 4 Black Cat">
+
+                <h3>Jordan 4 Black Cat</h3>
+                <p><strong>USD 350</strong></p>
+            </article>
+
+            <article class="producto">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsD853PJxpLWD8yuRqJ2ZKHIZ8uQeNXVmVNcKvNGv77c2p7cZIHrqu0Jo&s=10"
+                alt="Off White Out of Office">
+
+                <h3>Off White Out of Office</h3>
+                <p><strong>USD 450</strong></p>
+            </article>
+
+            <article class="producto">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNomnDJdj6myr6p5nTAiQBJyY7DurRfIxUf5qHeDgdfLDmuzqQVJO8IHEZ&s=10"
+                alt="Louis Vuitton LV Skate">
+
+                <h3>Louis Vuitton LV Skate</h3>
+                <p><strong>USD 1.200</strong></p>
+            </article>
+
+            <article class="producto">
+                <img src="https://static.ftshp.digital/img/p/1/1/4/0/6/7/6/1140676-thickbox.jpg"
+                alt="Nike Nocta Hotstep">
+
+                <h3>Nike Nocta Hotstep</h3>
+                <p><strong>USD 250</strong></p>
+            </article>
+
+            <article class="producto">
+                <img src="https://www.mentastore.com/cdn/shop/files/nike-air-max-95-corteiz-honey-black-464315.jpg?v=1746828876"
+                alt="Nike Air Max 95 Corteiz">
+
+                <h3>Nike Air Max 95 Corteiz</h3>
+                <p><strong>USD 350</strong></p>
+            </article>
+
+            <article class="producto">
+                <img src="https://www.dtlr.com/cdn/shop/products/Jordan-DH6927-111-M-030.jpg?v=1651780004"
+                alt="Jordan 4 Military Black">
+
+                <h3>Jordan 4 Military Black</h3>
+                <p><strong>USD 300</strong></p>
+            </article>
+
+            <article class="producto">
+                <img src="imagenes/nike-air-force-1-supreme.jpg"
+                alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXf18xwA88PeEOeCPcLMJJ8Avz2RiwT2eXtYyl6uxofKbt2CK-HRC0qoE&s=10">
+
+                <h3>Nike Air Force 1 x Supreme</h3>
+                <p><strong>USD 450</strong></p>
+            </article>
+
+            <article class="producto">
+                <img src="https://acdn-us.mitiendanube.com/stores/004/557/934/products/20260720_151854-jpg-600b847145cbd9559617846514395299-1024-1024.webp"
+                alt="Air Jordan 1 Chicago">
+
+                <h3>Air Jordan 1 Retro High OG Chicago</h3>
+                <p><strong>USD 450</strong></p>
+            </article>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p><strong>Sneakerdistrict</strong> - Precios sujetos a cambios.</p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+ <title>Sneakerdistrict - Contacto</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Sneakerdistrict</h1>
+        <p>Estamos para ayudarte</p>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="zapatillas.html">Zapatillas</a></li>
+                <li><a href="ubicaciones.html">Ubicaciones</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Contactate con nosotros</h2>
+
+            <p>
+                ¿Querés consultar por un modelo, un talle o la
+                disponibilidad de algún producto?
+                Escribinos o llamanos.
+            </p>
+        </section>
+
+        <section>
+            <h2>Nuestras redes y medios de contacto</h2>
+
+            <p>
+                <strong>Instagram:</strong>
+                <a href="https://www.instagram.com/sneakerdistrict/">
+                @Sneakerdistrict</a>
+            </p>
+
+            <p>
+                <strong>Correo electrónico:</strong>
+                <a href="mailto:Sneakerdistrict@gmail.com">
+                Sneakerdistrict@gmail.com</a>
+            </p>
+
+            <p>
+                <strong>Teléfono:</strong>
+                <a href="tel:+5491155679862">
+                +54 9 11 5567 9862</a>
+            </p>
+
+        </section>
+
+        <section>
+            <h2>¡Seguinos en nuestras redes!</h2>
+        </section>
+
+    </main>
+
+    <footer>
+        <p><strong>Sneakerdistrict</strong> - Gracias por elegirnos.</p>
+    </footer>
+
+</body>
+</html>

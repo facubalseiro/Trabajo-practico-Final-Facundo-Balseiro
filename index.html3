@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Sneakerdistrict - Ubicaciones</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Sneakerdistrict</h1>
+        <p>Encontrá tu sucursal más cercana</p>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="zapatillas.html">Zapatillas</a></li>
+                <li><a href="ubicaciones.html">Ubicaciones</a></li>
+                <li><a href="contacto.html">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Nuestras sucursales</h2>
+
+            <p>
+                Sneakerdistrict cuenta con distintos puntos de
+                atención en Buenos Aires para que puedas conocer
+                nuestros modelos y encontrar tus zapatillas favoritas.
+            </p>
+        </section>
+
+        <section>
+            <h2>Ciudad Autónoma de Buenos Aires</h2>
+
+            <article class="sucursal">
+                <h3>Palermo</h3>
+                <p>Av. Santa Fe 3350, Palermo, CABA.</p>
+            </article>
+
+            <article class="sucursal">
+                <h3>Puerto Madero</h3>
+                <p>Juana Manso 780, Puerto Madero, CABA.</p>
+            </article>
+
+            <article class="sucursal">
+                <h3>Belgrano</h3>
+                <p>Av. Cabildo 1850, Belgrano, CABA.</p>
+            </article>
+
+        </section>
+
+        <section>
+            <h2>Provincia de Buenos Aires</h2>
+
+            <article class="sucursal">
+                <h3>Ramos Mejía</h3>
+                <p>Av. de Mayo 420, Ramos Mejía.</p>
+            </article>
+
+            <article class="sucursal">
+                <h3>San Isidro</h3>
+                <p>Belgrano 260, San Isidro.</p>
+            </article>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p><strong>Sneakerdistrict</strong> - Buenos Aires, Argentina.</p>
+    </footer>
+
+</body>
+</html>
